@@ -1,0 +1,4 @@
+com\xml\service\impl\UserServiceImpl.class
+com\xml\service\base\IBaseService.class
+com\xml\service\base\BaseServiceImpl.class
+com\xml\service\IUserService.class
