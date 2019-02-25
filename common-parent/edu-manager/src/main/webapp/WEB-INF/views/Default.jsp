@@ -45,9 +45,9 @@
 							data-url="${pageContext.request.contextPath}/user/manage.do">用户管理</a>
 						</li>
 						<li class="navContent">
-							<a href="#" class="showNav" id="finance" data-name="main_iframe"
+							<a href="#" class="showNav" id="staff" data-name="main_iframe"
 							onclick="Common.switchNavigation(this);"
-							data-url="${pageContext.request.contextPath}/salary/manage.do">工资管理</a>
+							data-url="${pageContext.request.contextPath}/staff/manage.do">员工管理</a>
 						</li>
 					</ul>
 				</nav>
@@ -64,7 +64,7 @@
 		<!--====下面是页脚====-->
 		<div class="footer">
 			<footer>
-				<p>  版权所有 @ 2018 CccrushBy_Xml </p>
+				<p>  版权所有 @ 2018 cccrushBy_Xml </p>
 			</footer>
 		</div>
 	</form>
